@@ -1,6 +1,6 @@
 # HTML5 Personal Portfolio
 
-Portfolio site for every developers/designers :muscle:
+Portfolio site for every developers/designers :muscle: Currently being used for a bit of experimentation! This design is awesome :)
 
 ## How to use
 
